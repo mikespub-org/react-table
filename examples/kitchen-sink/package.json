@@ -7,13 +7,13 @@
     "eject": "rescripts eject"
   },
   "dependencies": {
-    "match-sorter": "^6.3.0",
+    "match-sorter": "^6.3.1",
     "namor": "^2.0.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
     "react-table": "latest",
-    "styled-components": "^5.3.0"
+    "styled-components": "^5.3.1"
   },
   "devDependencies": {
     "@rescripts/cli": "^0.0.16",
